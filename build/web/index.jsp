@@ -34,6 +34,7 @@
 						<li><a href="#">Sell</a></li>
 						<li><a href="#">About</a></li>
 						<li><a href="#">Contact</a></li>
+                                                <li><a href="formDatosHotel.jsp">Registrar Producto</a></li>
 					</ul>
 					<a href="#" class="login_btn">Login</a>
 				</nav>
